@@ -32,6 +32,8 @@ Explanation for the design - :
 
 7) You can refresh the page multiple times to check weather the load balacning is working on not.
 
+8) Output.tf gives you the dns and jumpbox url, you can use putty to login to jumpbox and validate the installation 
+
 
 
 Limitations -:
